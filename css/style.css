@@ -21,8 +21,6 @@ a {
   padding-top:3px;
 }
 
-
-
 /* header */
 .header {
   position:fixed;
@@ -129,6 +127,11 @@ input[type=text] {
 
 .header .menu-btn:checked ~ .menu {
   max-height: 240px;
+}
+
+/* Ads */
+.ads {
+  text-align:center;
 }
 
 
